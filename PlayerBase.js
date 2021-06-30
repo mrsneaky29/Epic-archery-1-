@@ -1,0 +1,4 @@
+class PlayerBase{
+    constructor()
+    display()
+}
